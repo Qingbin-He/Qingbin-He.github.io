@@ -7,7 +7,6 @@ first_name: Qingbin # 你的名
 last_name: He # 你的姓
 email: highqb1993@163.com # 你的联系邮箱
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Associate Professor at Shandong First Medical University. Focus on Medical Physics and Nanotechnology.
 footer_text: > # 网页最底部的文字 (可选)
