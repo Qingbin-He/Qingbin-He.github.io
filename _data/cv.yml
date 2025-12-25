@@ -16,7 +16,7 @@
     - name: Location
       value: Jinan, Shandong, China  
     - name: Languages
-      value: CHinese, English
+      value: Chinese, English
 
 - title: Education
   type: time_table
@@ -47,7 +47,7 @@
       description:
         - Conducted research on nanomaterials for tumor therapy.
 
-- title: Open Source Projects
+- title: Research Projects
   type: time_table
   contents:
     - title: Shandong Provincial Natural Science Foundation (Youth Project)
@@ -66,6 +66,4 @@
 - title: Academic Interests
   type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Youth Editorial Board Member of *Biomaterials Translational*
+    - item: Youth Editorial Board Member of *Biomaterials Translational*
